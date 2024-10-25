@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import es.israeldelamo.componentesimple.ComponenteSimple?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="es.israeldelamo.ejemplodeusocomponentessimples.UsoDeComponentesController">
+   <children>
+      <ComponenteSimple fx:id="componente1" layoutX="118.0" layoutY="90.0" />
+      <ComponenteSimple fx:id="componente2" layoutX="443.0" layoutY="90.0" />
+   </children>
+</AnchorPane>
